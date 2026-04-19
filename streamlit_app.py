@@ -12,7 +12,7 @@ from pdf2image import convert_from_path
 # PaddleOCR-VL-1.5 API 配置
 # ─────────────────────────────────────────────
 PADDLEOCR_API_URL = "https://z8t5weoff78et3d2.aistudio-app.com/layout-parsing"
-DEFAULT_TOKEN =''
+DEFAULT_TOKEN =""
 
 # ─────────────────────────────────────────────
 # 页面配置
